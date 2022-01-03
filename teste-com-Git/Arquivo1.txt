@@ -1,0 +1,2 @@
+Nova funcionalidade acrescentada ao Git.	
+Comando para adicionar novas branches, mover e renomeá-las. 
